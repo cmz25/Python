@@ -4,7 +4,7 @@ import scipy
 from matplotlib import pyplot as plt
 from numpy.fft import fft
 
-N = 30
+N = 40
 L = 1
 h = L/N
 
